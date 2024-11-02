@@ -1,27 +1,46 @@
-# Debugging
+# EasyTask 🌟
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+![Preview](https://github.com/user-attachments/assets/1e390b88-10e7-4120-9b79-b2efbb0b3270)
 
-## Development server
+**EasyTask** is a task management app built with Angular and TypeScript. It helps you easily create, organize, and track your tasks, keeping you focused and productive. ✅
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Demo 💻
 
-## Code scaffolding
+Check out the live demo here: [EasyTask Demo](https://easytaskgb.netlify.app/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Features 📋
 
-## Build
+- **User-Friendly Interface:** Enjoy a seamless experience with an intuitive design. 
+- **Task Management:** Create, update, and delete tasks easily. 
+- **Organize Tasks:** Categorize tasks for better organization and tracking. 
+- **Deadline Tracking:** Set deadlines to keep your tasks on schedule. 
+- **Responsive Design:** Access your tasks from any device. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technologies Used ⚙️
 
-## Running unit tests
+- **Angular** 
+- **TypeScript** 
+- **HTML** 
+- **CSS** 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started 🚀
 
-## Running end-to-end tests
+To run EasyTask locally, follow these steps:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/BAINDA/easytask-angular.git
 
-## Further help
+2. **Navigate to the project directory:**
+   ```bash
+   cd easytask-angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. **Install the dependencies:**
+   ```bash
+   npm install
+
+4. **Start the development server:**
+   ```bash
+   ng serve
+
+
