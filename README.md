@@ -1,6 +1,8 @@
 # EasyTask 🌟
 
-![Preview](https://github.com/user-attachments/assets/1e390b88-10e7-4120-9b79-b2efbb0b3270)
+![Preview](https://github.com/user-attachments/assets/6fab53ad-ded8-483c-a620-4670ff252094)
+
+
 
 **EasyTask** is a task management app built with Angular and TypeScript. It helps you easily create, organize, and track your tasks, keeping you focused and productive. ✅
 
